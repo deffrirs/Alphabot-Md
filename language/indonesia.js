@@ -580,9 +580,9 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan ${botname} di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan DEFFBOTzMd di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan ${botname}
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan DEFFBOTzMd
 😖🙏
 `
 }
@@ -591,10 +591,10 @@ exports.welcome = () =>{
 ❚█═════════════════█❚.
 »»——⍟——⍟—— ⍟—— ⍟—— ⍟——««
  nєw mєm íntrσ чαα 
-╠➣❁ nαmα :
-╠➣❁ kєlαs :
-╠➣❁ umur :
-╠➣❁ gєndєr :
+╠➣❁ nαmα :Nanda
+╠➣❁ kєlαs :11
+╠➣❁ umur :17
+╠➣❁ gєndєr :Laki"
 »»——⍟——⍟—— ⍟—— ⍟—— ⍟——««
 ❚█═════════════════█❚.
 ╰┈⫸ *𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k* ⫷┈┈╯`
