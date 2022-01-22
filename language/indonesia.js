@@ -87,7 +87,7 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya Alphabot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
+saya DEFFBOTz-Md, bot ini adalah Beta Multi-Device Whatsapp. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
 lapor owner agar segera di perbaiki 🙏      
 `
@@ -216,9 +216,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 ╭─❒ 「 Download 」 
 ├ ${prefix}tiktok [link]
-├ ${prefix}tiktoknowm [link]
-├ ${prefix}tiktokwm [link]
-├ ${prefix}tiktokaudio [link]
 ├ ${prefix}ytdl [link]
 ├ ${prefix}play [query]
 ├ ${prefix}ytmp3 [link]
@@ -226,9 +223,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}ytmp4 [link]
 ├ ${prefix}ytshorts [link]
 ├ ${prefix}facebook [link]
-├ ${prefix}facebooksd [link]
-├ ${prefix}facebookhd [link]
-├ ${prefix}fbaudio [link]
 ├ ${prefix}igstory [username]
 ├ ${prefix}igdl [link]
 ├ ${prefix}igphoto [link]
@@ -586,23 +580,27 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan ${botname} di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan ${botname}
 😖🙏
 `
 }
 exports.welcome = () =>{
-	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🤗
-	
-📛 𝖭𝖺𝗆𝖺 :
-🔞 𝖴𝗆𝗎𝗋 :
-🧑 𝖦𝖾𝗇𝖽𝖾𝗋 :
-🏙️ 𝖠𝗌𝗄𝗈𝗍 :
-╰ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
+	return`╰┈⫸hαloo spєlαmαt dαtαng⫷┈┈╯
+❚█═════════════════█❚.
+»»——⍟——⍟—— ⍟—— ⍟—— ⍟——««
+ nєw mєm íntrσ чαα 
+╠➣❁ nαmα :Nanda
+╠➣❁ kєlαs :11
+╠➣❁ umur :17
+╠➣❁ gєndєr :Laki"
+»»——⍟——⍟—— ⍟—— ⍟—— ⍟——««
+❚█═════════════════█❚.
+╰┈⫸ *𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k* ⫷┈┈╯`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out 😣 Makanya Jangan Baperan kak >.<
 Goodbye`
 }
 exports.source = () =>{
